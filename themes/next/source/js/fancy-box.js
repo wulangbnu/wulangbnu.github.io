@@ -8,7 +8,7 @@ $(document).ready(function() {
     }
     $imageWrapLink.addClass('fancybox');
 
-    $imageWrapLink.attr("rel","wl");
+    $imageWrapLink.attr("rel",this.alt);
 
     if(this.title){
       $imageWrapLink.attr("title",this.title); //make sure img title tag will show correctly in fancybox
