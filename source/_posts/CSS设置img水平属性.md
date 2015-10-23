@@ -6,7 +6,7 @@ categories:
 - 笔记
 ---
 
-这是wordpress官方处理图片水平居左、居右、居中的方法，简洁有效
+wordpress官方处理图片水平居左、居右、居中的方法，简洁有效
 
 	.alignleft {
 		 display: inline;

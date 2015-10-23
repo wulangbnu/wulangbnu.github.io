@@ -75,7 +75,8 @@ deploy:
   type: git
   message:
   repo:
-    github: git@github.com:wulangbnu/wulangbnu.github.io.git,gh-pages
+    #github: git@github.com:wulangbnu/wulangbnu.github.io.git,gh-pages
+    github: git@github.com:wulangbnu/wulangbnu.github.io.git,master
     gitcafe: git@gitcafe.com:wulangbnu/wulangbnu.github.io.git,gitcafe-pages
 
 #add for next theme
