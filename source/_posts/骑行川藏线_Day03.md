@@ -1,4 +1,4 @@
-title: 骑行川藏线_Day3
+title: 骑行川藏线_Day03
 date: 2015-07-18 22:33:37
 tags:
 - 旅行
