@@ -77,7 +77,8 @@ deploy:
   repo:
     #github: git@github.com:wulangbnu/wulangbnu.github.io.git,gh-pages
     github: git@github.com:wulangbnu/wulangbnu.github.io.git,master
-    gitcafe: git@gitcafe.com:wulangbnu/wulangbnu.github.io.git,gitcafe-pages
+    #gitcafe: git@gitcafe.com:wulangbnu/wulangbnu.github.io.git,gitcafe-pages
+    coding: git@git.coding.net:wulangbnu/wulangbnu.github.io.git,coding-pages
 
 #add for next theme
 avatar: /uploads/wulang.jpg
